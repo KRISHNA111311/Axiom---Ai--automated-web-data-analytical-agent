@@ -196,11 +196,6 @@ We welcome issues and pull requests. Please ensure your code is clean and well�
 
 ---
 
-## 📄 License
-
-MIT
-
----
 
 ## 🌟 Acknowledgements
 
