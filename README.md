@@ -12,7 +12,7 @@
 - 🧠 **AI Query Parsing** – Gemini 3.6 Flash reads your question and decides what to analyse.  
 - 📊 **Self‑Healing Code** – Gemini writes Python analysis code; if it fails, it automatically fixes itself (up to 3 retries).  
 - 🔒 **Privacy First** – Raw data **never leaves your machine** – the sandbox runs with `--network none`; only summaries go to the LLM.  
-- 📈 **15+ Insights + Charts** – The final report contains a rich set of statistics and labelled graphs.  
+- 📈 ** Insights + Charts** – The final report contains a rich set of statistics and labelled graphs.  
 - ⏱️ **Smart Estimation** – For Bright Data, it samples the scrape rate and fetches exactly the number of records you ask for – saving credits.  
 - 🎛️ **Component Toggles** – Run only the parts you need (`Sc` = Scraper, `Db` = Database, `Sb` = Sandbox, `Ai` = AI).
 
